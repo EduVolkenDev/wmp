@@ -129,18 +129,6 @@ h3 {
   min-height: 100%;
 }
 
-.wmp-bg::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: linear-gradient(135deg, rgba(0, 0, 0, .52) 0%, rgba(0, 0, 0, .75) 100%);
-  z-index: 2;
-  pointer-events: none;
-}
-
 /* ===== TOPBAR ===== */
 .topbar {
   position: fixed;
