@@ -361,9 +361,10 @@ h3 {
 }
 
 .plans h2 {
-  font-size: clamp(28px, 5vw, 42px);
-  font-weight: 700;
+  font-size: clamp(20px, 3vw, 20px);
+  font-weight: 500;
   margin-bottom: 8px;
+  text-align: center;
 }
 
 .plans .section-sub {
